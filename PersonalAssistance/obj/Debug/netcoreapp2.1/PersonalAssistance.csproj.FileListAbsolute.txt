@@ -1,0 +1,14 @@
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\bin\Debug\netcoreapp2.1\PersonalAssistance.deps.json
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\bin\Debug\netcoreapp2.1\PersonalAssistance.runtimeconfig.json
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\bin\Debug\netcoreapp2.1\PersonalAssistance.runtimeconfig.dev.json
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\bin\Debug\netcoreapp2.1\PersonalAssistance.dll
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\bin\Debug\netcoreapp2.1\PersonalAssistance.pdb
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.csprojAssemblyReference.cache
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.csproj.CoreCompileInputs.cache
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.RazorAssemblyInfo.cache
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.RazorAssemblyInfo.cs
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.AssemblyInfoInputs.cache
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.AssemblyInfo.cs
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.RazorTargetAssemblyInfo.cache
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.dll
+C:\Users\pankaj_shukla2\Documents\Demo\PersonalAssistance\PersonalAssistance\PersonalAssistance\obj\Debug\netcoreapp2.1\PersonalAssistance.pdb
